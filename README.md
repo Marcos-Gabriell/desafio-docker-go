@@ -84,10 +84,3 @@ A imagem está publicada em:
 
 ---
 
-## Divirta-se!
-
-Este desafio é ótimo para aprender conceitos básicos de Docker e Go, além de práticas de construção de imagens leves.
-
----
-
-Se precisar de ajuda ou quiser sugerir melhorias, fique à vontade para abrir issues ou pull requests!
